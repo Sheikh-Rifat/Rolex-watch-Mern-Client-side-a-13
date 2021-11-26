@@ -1,0 +1,22 @@
+.custom-form {
+  border: 1px solid #ffb566 !important;
+  border-radius: 5px;
+  padding: 1%;
+}
+.custom-form-btn {
+  border: 1px solid #ffb566 !important;
+  border-radius: 5px;
+  padding: 1%;
+  background-color: rgb(48, 46, 46) !important;
+}
+.custom-form-btn:hover {
+  background-color: #292827 !important;
+}
+.form-contact input {
+  background: rgba(236, 234, 234, 0.5);
+}
+.form-contact textarea {
+  background: rgba(236, 234, 234, 0.5);
+  border-radius: 5px;
+  border: 1px solid #ffb566 !important;
+}
